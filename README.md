@@ -8,7 +8,7 @@
 Let's talk? ☕️
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gustavo-Gomes-48402b141/)](https://www.linkedin.com/in/gustavo-gomes-2391b71a6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Gustavo-Gomes-48402b141/)](https://www.linkedin.com/in/gustavo-gomes-2391b71a6/)
 
 
 
